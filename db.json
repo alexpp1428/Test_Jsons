@@ -1,5 +1,11 @@
-{  "cmd":33,
-   "Id":1477958410,
-   "login":"abc",
-   "password":"12345"
+{
+"result" : true,
+"response" :  
+   {
+   "cmd": 33,
+   "result" : true,
+   "name" : "Группа 1",
+   "token" : "ghg5565ggg",
+   "sim"    : "37129556677"
+   } 
 }
